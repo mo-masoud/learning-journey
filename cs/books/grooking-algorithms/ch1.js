@@ -80,7 +80,7 @@ console.log(binarySearch([1, 10, 20, 25, 30, 45, 50, 70], 25));
 
 /**
  * =========================================================================
- * Notes
+ * Recap
  * =========================================================================
  * 1. Binary search is a lot faster than simple search.
  * 2. O(log n) is faster than O(n), but it gets a lot faster once the list of
